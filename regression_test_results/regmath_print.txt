@@ -1,0 +1,351 @@
+﻿debug:
+Now reading image file regtest/recog_regtest1.bmp :
+After restruct, image regtest/recog_regtest1.bmp includes expression :
+A==[[-1.3,0.6],[20.4,5.5],[9.7,-6.2]]
+Now reading image file regtest/recog_regtest2.bmp :
+After restruct, image regtest/recog_regtest2.bmp includes expression :
+f_mm==((1)/(sqrt((55000-1950)**(2)*((1)/(C))*2*pi*(26*10**(6)))))
+f_maX==((1)/(sqrt(4950**(2)*((1)/(C))*2*pi*(26*10**(6)))))
+f_P0t==((1)/(sqrt((R_P0t+((5413)/(0.95)))**(2)*((1)/(C))*2*pi*(29.38*10**(6)))))
+Now reading image file regtest/recog_regtest3.png :
+After restruct, image regtest/recog_regtest3.png includes expression :
+3+(-5)-2+3
+3+(-6)-2+3
+Now reading image file regtest/recog_regtest4.bmp :
+After restruct, image regtest/recog_regtest4.bmp includes expression :
+product_over("c*Σ_η+1**(.)**(1)","η","1")
+product_over("c*Π_η+1**(.)**(1)","η","1")
+sum_over("c*Π_η+1**(.)**(1)","η","1")
+sum_over("c*Σ_η+1**(.)**(1)","η","1")
+Now reading image file regtest/recog_regtest5.bmp :
+After restruct, image regtest/recog_regtest5.bmp includes expression :
+f(x)==α_0+sum_over("(a_n*cos(((n*pi*x)/(L)))+b_n*sin(((n*pi*x)/(L))))*(x+α)**(n)","n=1","\\infinite")==sum_over("[[n],[k]]*x**(k)*α**(n-k)","k=0","n")
+Now reading image file regtest/recog_regtest6.bmp :
+After restruct, image regtest/recog_regtest6.bmp includes expression :
+f(x)==α_0+sum_over("(α_n*cos(((n*pi*x)/(L)))+b_n*sin(((n*pi*x)/(L))))*(x+α)**(n)","n=1","\\infinite")==sum_over("[[n],[k]]*x**(k)*α**(n-k)","k=0","n")
+Now reading image file regtest/recog_regtest7.bmp :
+After restruct, image regtest/recog_regtest7.bmp includes expression :
+lim("(1+((1)/(n)))**(n)","n","\\infinite")
+Now reading image file regtest/recog_regtest8.bmp :
+After restruct, image regtest/recog_regtest8.bmp includes expression :
+x==((-b*+*sqrt(b**(2)-4*α*C))/(2*α))
+x+y==3
+5
+4*2.7
+Now reading image file regtest/recog_regtest9.bmp :
+After restruct, image regtest/recog_regtest9.bmp includes expression :
+lim("((n.!)/(sqrt(2*pi*n.)*(((n)/(c)))**(n)))","n","\\infinite")==1
+s==sqrt(((1)/(4))*(a**(2)*t**(-)-(((α**(2)+c**(2)-b**(2))/(2)))**(2)))
+u**(f)==(y+(((y)/(4)))+(((c)/(4)))-2*c+1*((26*(n)/(1))
+Now reading image file regtest/recog_regtest10.bmp :
+After restruct, image regtest/recog_regtest10.bmp includes expression :
+sqrt((P-α)*(P-b)*(P-C)*(P-d))
+Now reading image file regtest/recog_regtest11.bmp :
+After restruct, image regtest/recog_regtest11.bmp includes expression :
+abs(B)==1*abs([[5,6],[8,9]])-2*abs([[4,6],[7,9]])+3*abs([[4,5],[7,8]])
+integrate("f_s(((8*R)/(8*y))-((8*Q)/(8*z)))","y")*d*Z+(((8*P)/(B*z))-((8*R)/(8*x)))*d*z*d*x+(((B*Q)/(8*x))-((8*P)/(8*y)))*d*x*d*y
+((389**(2))/(389))-379==10
+tan(A+B)==((tan(A)+tan(B))/(1-tan(A)*tan(B)))
+Now reading image file regtest/recog_regtest12.bmp :
+After restruct, image regtest/recog_regtest12.bmp includes expression :
+γ==[[1,0.5,0.9],[0.5,1,0.3],[0.9,f*J.3,1]]
+Now reading image file regtest/recog_regtest13.bmp :
+After restruct, image regtest/recog_regtest13.bmp includes expression :
+α+b**(x_-**(1*y)
+2*C_A)
+Now reading image file regtest/recog_regtest14.bmp :
+After restruct, image regtest/recog_regtest14.bmp includes expression :
+Y-[[((20-10)/(10))],[((30-20)/(20))],[((40-30)/(30))],[((50-40)/(40))],[((60-50)/(50))]]==[[1],[0.5],[0.33],[0.25],[0.2]]
+Now reading image file regtest/recog_regtest15.bmp :
+After restruct, image regtest/recog_regtest15.bmp includes expression :
+Y==((M_k**(i)*(t_m))/(S_k**(i)*(t_m)))
+Now reading image file regtest/recog_regtest16.bmp :
+After restruct, image regtest/recog_regtest16.bmp includes expression :
+F_1==1*μ_t*f(F_t)**(1*f)+((1)/(2))*sum_over("(σ_l**(2)*(c","i=1","n")
+Now reading image file regtest/recog_regtest17.bmp :
+After restruct, image regtest/recog_regtest17.bmp includes expression :
+γ
+==B/\B**(T)
+==[[0.73,0.17,0.66],[-0.18,-0.88,0.44],[-0.65,0.44,0.61]]*[[0.07,0,0],[0,0.75,0],[0,0,2.17]]
+Now reading image file regtest/recog_regtest18.bmp :
+After restruct, image regtest/recog_regtest18.bmp includes expression :
+α+b**(((X5)/(4)))
+Now reading image file regtest/recog_regtest19.bmp :
+After restruct, image regtest/recog_regtest19.bmp includes expression :
+α+b**(((x+3)/(4)))
+Now reading image file regtest/recog_regtest20.bmp :
+After restruct, image regtest/recog_regtest20.bmp includes expression :
+((5+7**(z))/(pow(x+y**(Δ), 1/(3))))
+Now reading image file regtest/recog_regtest21.bmp :
+After restruct, image regtest/recog_regtest21.bmp includes expression :
+a==((sum_over("Δ_i*sum_over(\"r_1-(N-1)*sum_over(\\\"Δ_i*r_l\\\",\\\"i-1\\\",\\\"N-1\\\")\",\"i-1\",\"N-1\")","i-1","N-1"))/(c*s*((N-1)*sum_over("r_f**(2)-(sum_over(\"r_i\",\"i-1\",\"H-1\"))**(2)","ζ**(.)\\pound","N-1"))))
+Now reading image file regtest/recog_regtest22.bmp :
+After restruct, image regtest/recog_regtest22.bmp includes expression :
+R*d_n==((sum_over("λ_A","A=K-η","λ**(.)"))/(sum_over("λ_A","A-1","λ**(.)")))
+Now reading image file regtest/recog_regtest23.bmp :
+After restruct, image regtest/recog_regtest23.bmp includes expression :
+z_r-1==(((1)/(D*(t.1)))-1)*((360)/(d_r-1))
+==(((1)/(0.9422))-1)*((360)/(360))
+==6.13%
+Now reading image file regtest/recog_regtest24.bmp :
+After restruct, image regtest/recog_regtest24.bmp includes expression :
+α_n*cos(((n*pi*x)/(L)))
+Now reading image file regtest/recog_regtest25.bmp :
+After restruct, image regtest/recog_regtest25.bmp includes expression :
+((h1*(L**(2*Π+2)/E*S*U**(2*n))+(b+σ**(2)/2))/(σ*sqrt(T)))
+Now reading image file regtest/recog_regtest26.bmp :
+After restruct, image regtest/recog_regtest26.bmp includes expression :
+σ_σ*sqrt(T)
+Now reading image file regtest/recog_regtest27.bmp :
+After restruct, image regtest/recog_regtest27.bmp includes expression :
+σ*σ*sqrt(T)
+Now reading image file regtest/recog_regtest28.bmp :
+After restruct, image regtest/recog_regtest28.bmp includes expression :
+σ**(σ)*sqrt(T)
+Now reading image file regtest/recog_regtest29.bmp :
+After restruct, image regtest/recog_regtest29.bmp includes expression :
+pow(T, 1/(σ*σ))
+Now reading image file regtest/recog_regtest30.bmp :
+After restruct, image regtest/recog_regtest30.bmp includes expression :
+sum_over("k**(2)+2*k-4","k=0","9")
+Now reading image file regtest/recog_regtest31.bmp :
+After restruct, image regtest/recog_regtest31.bmp includes expression :
+Y==[[((20-10)/(10))],[((30-20)/(20))],[((40-30)/(30))],[((50-40)/(40))],[((60-50)/(50))]]==[[1],[0.5],[0.33],[0.25],[0.2]]
+Now reading image file regtest/recog_regtest32.bmp :
+After restruct, image regtest/recog_regtest32.bmp includes expression :
+P==[[1,2,3,2],[1,2,7,5],[4,9,2,6],[6,1,5,8]]
+Now reading image file regtest/recog_regtest33.bmp :
+After restruct, image regtest/recog_regtest33.bmp includes expression :
+Y==[[((20-10)/(10))],[((30-20)/(20))],[((40-30)/(30))],[((50-40)/(40))],[((60-50)/(50))]]==[[1],[0.5],[0.33],[0.25],[0.2]]
+Now reading image file regtest/recog_regtest34.bmp :
+After restruct, image regtest/recog_regtest34.bmp includes expression :
+sum_over("((log(N)*(T_0))/(N*(T)**(1/2)-N*(T)**(-1/2)))*g*(log(N)*(n)","(T)","")
+Now reading image file regtest/recog_regtest35.bmp :
+After restruct, image regtest/recog_regtest35.bmp includes expression :
+integrate("integrate(\"x**(18)*y-7\",\"y\",\"21\",\"4\")","x","x=8","11")
+Now reading image file regtest/recog_regtest36.bmp :
+After restruct, image regtest/recog_regtest36.bmp includes expression :
+integrate("x*y-7","y","2","4")*d*x
+Now reading image file regtest/recog_regtest37.bmp :
+After restruct, image regtest/recog_regtest37.bmp includes expression :
+integrate("integrate(\"x*y-7\",\"y\",\"4.8\",\"5.6\")","x","x=8","11")
+Now reading image file regtest/recog_regtest38.bmp :
+After restruct, image regtest/recog_regtest38.bmp includes expression :
+e**(x)==1+x+((x**(2))/(2!))+((x**(3))/(3!))+***+((x**(Π))/(n!))
+tan(A+B)
+Now reading image file regtest/recog_regtest39.bmp :
+After restruct, image regtest/recog_regtest39.bmp includes expression :
+integrate("integrate(\"2*x+1\",\"x\",\"5+6-5*i\",\"1+2-3\")","x","45","98+2*i")
+Now reading image file regtest/recog_regtest40.bmp :
+After restruct, image regtest/recog_regtest40.bmp includes expression :
+integrate("integrate(\"2*x+1\",\"x\",\"5+6-5*i\",\"1+2-3\")","x","45","98+2*i")
+Now reading image file regtest/recog_regtest41.bmp :
+After restruct, image regtest/recog_regtest41.bmp includes expression :
+3+integrate*integrate("2222","x","+111111111","-2222222222")
+Now reading image file regtest/recog_regtest42.bmp :
+After restruct, image regtest/recog_regtest42.bmp includes expression :
+3+integrate("integrate(\"2222\",\"x\",\"+111111111\",\"-2222222222\")","x","f+g+h_i+j+k+m","α+b+c+d+k*k**(6)")
+Now reading image file regtest/recog_regtest43.bmp :
+After restruct, image regtest/recog_regtest43.bmp includes expression :
+f_45*integrate("2*x+1","x","5+6-5*i","1+2-3")*d*x
+integrate("integrate(\"2*x+1\",\"x\",\"5+6-5*i\",\"\")","x","45","98+2*i")
+f**(98+2*i)*integrate("2*x+1","x","5+6-5*i","1+2-3")*d*x
+integrate("integrate(\"2*x+1\",\"x\",\"\",\"1+2-3\")","x","45","98+2*i")
+Now reading image file regtest/recog_regtest44.bmp :
+After restruct, image regtest/recog_regtest44.bmp includes expression :
+u*n
+u*n*1
+lim
+n*\infinite*1_((sqrt(2*pi*n.)
+n._!*(((n)/(c)))**(n))/(sqrt(2*pi*n.)*(((n)/(c)))**(n)))*sqrt(2*pi*n.)
+n._!*(((n)/(c)))**(n)_-
+-
+-
+-_1**(1)**(=1)
+Now reading image file regtest/recog_regtest45.bmp :
+After restruct, image regtest/recog_regtest45.bmp includes expression :
+lim(((n.!)/(sqrt(2*pi*n.)*(((n)/(c)))**(n))))==1
+u*n*1*((n.!)/(sqrt(2*pi*n.)*(((n)/(c)))**(n)))==1
+lim("((n.!)/(sqrt(2*pi*n.)*(((n)/(c)))**(n)))","n*\\infinite","\\infinite")==1
+lim
+\infinite*((n.!)/(sqrt(2*pi*n.)*(((n)/(c)))**(n)))==1
+lim(((n.!)/(sqrt(2*pi*n.)*(((n)/(c)))**(n))))==1
+lim("((n.!)/(sqrt(2*pi*n.)*(((n)/(c)))**(n)))","n","c*n")==1
+Now reading image file regtest/recog_regtest46.bmp :
+After restruct, image regtest/recog_regtest46.bmp includes expression :
+sum_over("((t*e**(t))/(4*t**(2)+t-6))-5/t","t=3","m")
+sum_over("((t*e**(t))/(4*t**(2)+t-6))-5/t","t=3","")
+sum_over("((t*e**(t))/(4*t**(2)+t-6))-5/t","","m")
+sum_over("((t*e**(t))/(4*t**(2)+t-6))-5/t","t3","m")
+sum_over("((t*e**(t))/(4*t**(2)+t-6))-5/t","t","m")
+Now reading image file regtest/recog_regtest47.bmp :
+After restruct, image regtest/recog_regtest47.bmp includes expression :
+σ==sqrt(((1)/((N-1)*δ))*sum_over("(Δ_i-(θ-a*r_1)*δ)**(2)","i*pi1","N-1"))
+Now reading image file regtest/recog_regtest48.bmp :
+After restruct, image regtest/recog_regtest48.bmp includes expression :
+integrate("sqrt(x)","x","0","1")
+Now reading image file regtest/recog_regtest49.bmp :
+After restruct, image regtest/recog_regtest49.bmp includes expression :
+((pow(5+7, 1/(5)))/(η+8*i))
+Now reading image file regtest/recog_regtest50.bmp :
+After restruct, image regtest/recog_regtest50.bmp includes expression :
+0*c*t0*b*e*r3*r*d_1*2014
+Now reading image file regtest/recog_regtest51.bmp :
+After restruct, image regtest/recog_regtest51.bmp includes expression :
+1/2
+Now reading image file regtest/recog_regtest52.bmp :
+After restruct, image regtest/recog_regtest52.bmp includes expression :
+integrate("sqrt(x)","x","0","1")
+Now reading image file regtest/recog_regtest53.bmp :
+After restruct, image regtest/recog_regtest53.bmp includes expression :
+7/8
+Now reading image file regtest/recog_regtest54.bmp :
+After restruct, image regtest/recog_regtest54.bmp includes expression :
+sqrt(3.146)
+Now reading image file regtest/recog_regtest55.bmp :
+After restruct, image regtest/recog_regtest55.bmp includes expression :
+e**(pi)
+Now reading image file regtest/recog_regtest56.bmp :
+After restruct, image regtest/recog_regtest56.bmp includes expression :
+96.49/sqrt(5.32)
+Now reading image file regtest/recog_regtest57.bmp :
+After restruct, image regtest/recog_regtest57.bmp includes expression :
+integrate("sqrt(x)","x","0","1")
+Now reading image file regtest/recog_regtest58.bmp :
+After restruct, image regtest/recog_regtest58.bmp includes expression :
+integrate("x**(2)*e**(-x**(2))","x","\\infinite","\\infinite")
+Now reading image file regtest/recog_regtest59.bmp :
+After restruct, image regtest/recog_regtest59.bmp includes expression :
+(3)*7.5+25*L*d
+Now reading image file regtest/recog_regtest60.bmp :
+After restruct, image regtest/recog_regtest60.bmp includes expression :
+A==[[1,3,2],[1,3,3],[2,7,8]]
+Now reading image file regtest/recog_regtest61.bmp :
+After restruct, image regtest/recog_regtest61.bmp includes expression :
+?
+Now reading image file regtest/recog_regtest62.bmp :
+After restruct, image regtest/recog_regtest62.bmp includes expression :
+8*X**(2)*y-4*X**(2)+6*y-3
+Now reading image file regtest/recog_regtest63.bmp :
+After restruct, image regtest/recog_regtest63.bmp includes expression :
+L*r*((I-cos(x))/(x**(2)))
+Now reading image file regtest/recog_regtest64.bmp :
+After restruct, image regtest/recog_regtest64.bmp includes expression :
+((24*X)/(4*X))
+Now reading image file regtest/recog_regtest65.bmp :
+After restruct, image regtest/recog_regtest65.bmp includes expression :
+sqrt(((81)/(100)))
+Now reading image file regtest/recog_regtest66.bmp :
+After restruct, image regtest/recog_regtest66.bmp includes expression :
+6*X**(2)-13*x+6==0
+Now reading image file regtest/recog_regtest67.bmp :
+After restruct, image regtest/recog_regtest67.bmp includes expression :
+f(x)==((2*(x-1)*(x+1))/((x-2)**(2)))
+Now reading image file regtest/recog_regtest68.bmp :
+After restruct, image regtest/recog_regtest68.bmp includes expression :
+y==((2)/(7))*x*+1
+Now reading image file regtest/recog_regtest69.bmp :
+After restruct, image regtest/recog_regtest69.bmp includes expression :
+integrate("","x","U","l")==integrate("x**(1/0)","x","0","1")
+Now reading image file regtest/recog_regtest70.bmp :
+After restruct, image regtest/recog_regtest70.bmp includes expression :
+!*Π/Π*9abs()*m1*r*S*o*T*r*Π*I*θ9*m*r10*Π*1*r*a*X0*Σ*1
+integrate("f(x)","x","0","b")==-integrate_b**Ω*integrate("(Σ)","r")
+Now reading image file regtest/recog_regtest71.bmp :
+After restruct, image regtest/recog_regtest71.bmp includes expression :
+((x)/(12))+((y-x)/(9))==((11)/(12))
+((x)/(4))+((y-x)/(8))==1**(1)
+Now reading image file regtest/recog_regtest72.bmp :
+After restruct, image regtest/recog_regtest72.bmp includes expression :
+1*D*\infinite*1*A*V*f*Δ*r*m*ω*\yuan*c-q
+0.5*x==θ
+Now reading image file regtest/recog_regtest73.bmp :
+After restruct, image regtest/recog_regtest73.bmp includes expression :
+(3)*((1)/(8))*x==Z
+Now reading image file regtest/recog_regtest74.bmp :
+After restruct, image regtest/recog_regtest74.bmp includes expression :
+(q)*((X)/(8))==7
+Now reading image file regtest/recog_regtest75.bmp :
+After restruct, image regtest/recog_regtest75.bmp includes expression :
+-0.1*x==7
+Now reading image file regtest/recog_regtest76.bmp :
+After restruct, image regtest/recog_regtest76.bmp includes expression :
+(q)*((x)/(8))==7
+Now reading image file regtest/recog_regtest77.bmp :
+After restruct, image regtest/recog_regtest77.bmp includes expression :
+(900.00-74.433)*e**(0.l*A1)
+Now reading image file regtest/recog_regtest78.bmp :
+After restruct, image regtest/recog_regtest78.bmp includes expression :
+(121.978-5.803)*e**(0.1*0.7397)
+Now reading image file regtest/recog_regtest79.bmp :
+After restruct, image regtest/recog_regtest79.bmp includes expression :
+((360)/(Π))*(100-Y)
+Now reading image file regtest/recog_regtest80.bmp :
+After restruct, image regtest/recog_regtest80.bmp includes expression :
+I20+((60)/(60+122))*6
+Now reading image file regtest/recog_regtest81.bmp :
+After restruct, image regtest/recog_regtest81.bmp includes expression :
+((l)/(q))*γ_k*0.012**(2)*8*8.25
+Now reading image file regtest/recog_regtest82.bmp :
+After restruct, image regtest/recog_regtest82.bmp includes expression :
+((0.053*x91+0.048*400)/(49*l))
+Now reading image file regtest/recog_regtest83.bmp :
+After restruct, image regtest/recog_regtest83.bmp includes expression :
+sqrt(((0.00326)/(19))-((0.0953*I**(2))/(380)))
+Now reading image file regtest/recog_regtest84.bmp :
+After restruct, image regtest/recog_regtest84.bmp includes expression :
+0.193
+sqrt(2*20)
+Now reading image file regtest/recog_regtest85.bmp :
+After restruct, image regtest/recog_regtest85.bmp includes expression :
+(q50+1.865)*C**(0.07*A1)
+Now reading image file regtest/recog_regtest86.bmp :
+After restruct, image regtest/recog_regtest86.bmp includes expression :
+40*E**(0.05*x3/12)==ζ
+Now reading image file regtest/recog_regtest87.bmp :
+After restruct, image regtest/recog_regtest87.bmp includes expression :
+((0.193)/(sqrt(2*20)))
+Now reading image file regtest/recog_regtest88.bmp :
+After restruct, image regtest/recog_regtest88.bmp includes expression :
+((e**((0.05-0.03)*A0.5)-0.8)/(1*X)-0.8))
+Now reading image file regtest/recog_regtest89.bmp :
+After restruct, image regtest/recog_regtest89.bmp includes expression :
+0.02**(2)+5**(2)*0.0*I**(2)
+Now reading image file regtest/recog_regtest90.bmp :
+After restruct, image regtest/recog_regtest90.bmp includes expression :
+sqrt(0.08**(2)*17.49**(2)+4.40**(2)*6.05**(2))
+Now reading image file regtest/recog_regtest91.bmp :
+After restruct, image regtest/recog_regtest91.bmp includes expression :
+26.66*2.33==62.I2
+Now reading image file regtest/recog_regtest92.bmp :
+After restruct, image regtest/recog_regtest92.bmp includes expression :
+((1*J*y**(2)-33*y-108)/(a*p**(2)+49*y+72))/((y**(2)-9*y+20)/(4*y**(2)+12*y-160))
+Now reading image file regtest/recog_regtest93.bmp :
+After restruct, image regtest/recog_regtest93.bmp includes expression :
+5*(((9*x)/(d))+13)==30+16*(X+1)
+Now reading image file regtest/recog_regtest94.bmp :
+After restruct, image regtest/recog_regtest94.bmp includes expression :
+(10*x+(9-x))-(10*(3-x)+X)==45
+Now reading image file regtest/recog_regtest95.bmp :
+After restruct, image regtest/recog_regtest95.bmp includes expression :
+125.09*d-6*A*((148)/(305-122))==120.242
+Now reading image file regtest/recog_regtest96.bmp :
+After restruct, image regtest/recog_regtest96.bmp includes expression :
+((2)/(98))*((365)/(9*I))==0.08186
+Now reading image file regtest/recog_regtest97.bmp :
+After restruct, image regtest/recog_regtest97.bmp includes expression :
+111*Ω*γ*\infinite*h*c*u*a*b
+100*x*e**(0.05*5)==128.40
+Now reading image file regtest/recog_regtest98.bmp :
+After restruct, image regtest/recog_regtest98.bmp includes expression :
+0.928*((0.0263)/(0.03*I3))==0.73
+Now reading image file regtest/recog_regtest99.bmp :
+After restruct, image regtest/recog_regtest99.bmp includes expression :
+4*ln(1+((0.10256)/(4)))==0.10127
+Now reading image file regtest/recog_regtest100.bmp :
+After restruct, image regtest/recog_regtest100.bmp includes expression :
+(8+2/98)*I*((365)/(9*I))
+Now reading image file regtest/recog_regtest101.bmp :
+After restruct, image regtest/recog_regtest101.bmp includes expression :
+((x)/(4))+((y-x)/(8))==(1+1/2)
+BUILD SUCCESSFUL (total time: 2 minutes 47 seconds)

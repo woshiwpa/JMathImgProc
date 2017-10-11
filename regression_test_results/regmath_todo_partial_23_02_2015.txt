@@ -1,0 +1,27 @@
+debug:
+Now processing image file mr_initial.bmp
+Now reading image file regtest/recog_regtest7.bmp :
+After restruct, image regtest/recog_regtest7.bmp includes expression :
+1_->inf*i*m*(1+((1)/(n)))**(n)
+Now reading image file todo/filter1/mr_finallyproc(1).bmp :
+After restruct, image todo/filter1/mr_finallyproc(1).bmp includes expression :
+pow(+4, 1/(X+2))
+Now reading image file todo/filter1/mr_finallyproc(2).bmp :
+After restruct, image todo/filter1/mr_finallyproc(2).bmp includes expression :
+8*((0.0263)/(0.0313))
+Now reading image file todo/filter1/mr_finallyproc(3).bmp :
+After restruct, image todo/filter1/mr_finallyproc(3).bmp includes expression :
+0.5*0.20**(5)+0.5*0.30**(1)==0.06
+Now reading image file todo/filter1/mr_finallyproc(4).bmp :
+After restruct, image todo/filter1/mr_finallyproc(4).bmp includes expression :
+0*((0.00012025)/(.00981*0.02028))
+Now reading image file todo/filter1/mr_finallyproc(5).bmp :
+After restruct, image todo/filter1/mr_finallyproc(5).bmp includes expression :
+((f*σ*Π*60**(0)-f0*Π*30**(0))/(f*f0*Π*600*T0*Π*30**(0)))
+Now reading image file todo/filter1/mr_finallyproc(7).bmp :
+After restruct, image todo/filter1/mr_finallyproc(7).bmp includes expression :
+σ_n**(2)==sum_over("a_1*u_n**(2)-i","1=1","m")
+Now reading image file todo/filter1/mr_finallyproc(8).bmp :
+After restruct, image todo/filter1/mr_finallyproc(8).bmp includes expression :
+1sum_over("f(t_i)*(x*i+1**(-x)*i)-s1","i=0","n-1")<E
+BUILD SUCCESSFUL (total time: 5 seconds)
